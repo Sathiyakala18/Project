@@ -1,0 +1,23 @@
+
+{
+ "name":"Bala",
+ "email":"Bala@gmail.com",
+ "phoneNo":987654321,
+ "studentDetails":[{
+ "firstName":"Mani",
+ "course":"JAVA",
+ "Address":"Chennai"
+ },{
+ "firstName":"Guna",
+ "course":"Python",
+ "Address":"Chennai"
+ },{
+ "firstName":"Dinesh",
+ "course":"SQL",
+ "Address":"Chennai"
+ },{
+ "firstName":"Abu",
+ "course":"API",
+ "Address":"Chennai"
+ }]
+ }
